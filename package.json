@@ -1,5 +1,5 @@
 {
-  "name": "orb-billing",
+  "name": "@jordangens/orb-billing",
   "version": "2.11.1",
   "description": "The official TypeScript library for the Orb API",
   "author": "Orb <team@withorb.com>",
